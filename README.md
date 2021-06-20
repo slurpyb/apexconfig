@@ -1,0 +1,2 @@
+# apexconfig
+apex legends config
